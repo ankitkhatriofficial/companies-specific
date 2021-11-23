@@ -1,4 +1,4 @@
-# `Company Questions Repository`
+# `Companies-Specific Repository`
 ---
 ## Here you can get the questions along with the solution asked by the tops mncs.
 
