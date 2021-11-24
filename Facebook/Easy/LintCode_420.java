@@ -1,4 +1,4 @@
-package Facebook;
+package Facebook.Easy;
 
 public class LintCode_420 {
     /** Solution */

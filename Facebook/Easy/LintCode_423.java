@@ -1,4 +1,4 @@
-package Facebook;
+package Facebook.Easy;
 
 import java.util.Stack;
 
